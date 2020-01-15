@@ -1,0 +1,56 @@
+~~~~~~~~~~~~~~~~~~~~~
+[92mReason: High Entropy[0m
+[92mDate: 2020-01-15 11:31:07[0m
+[92mHash: e2b91f0f70cd6cfe88256c28513ad6c2fd4035b2[0m
+[92mFilepath: dummy2[0m
+[92mBranch: origin/master[0m
+[92mCommit: more dummy keys
+[0m
+@@ -1,2 +0,0 @@
+-Key = 'AKIAV3EA4LEVZBZVAOOY'
+-Secret = '[93m6R3NwjfXJnKFAEZUO8FoO3NlOf1Gau7eWCQYwe6P[0m'
+
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+[92mReason: Generic Secret[0m
+[92mDate: 2020-01-15 11:31:07[0m
+[92mHash: e2b91f0f70cd6cfe88256c28513ad6c2fd4035b2[0m
+[92mFilepath: dummy2[0m
+[92mBranch: origin/master[0m
+[92mCommit: more dummy keys
+[0m
+[93mSecret = '6R3NwjfXJnKFAEZUO8FoO3NlOf1Gau7eWCQYwe6P'[0m
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+[92mReason: AWS API Key[0m
+[92mDate: 2020-01-15 11:31:07[0m
+[92mHash: e2b91f0f70cd6cfe88256c28513ad6c2fd4035b2[0m
+[92mFilepath: dummy2[0m
+[92mBranch: origin/master[0m
+[92mCommit: more dummy keys
+[0m
+[93mAKIAV3EA4LEVZBZVAOOY[0m
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+[92mReason: High Entropy[0m
+[92mDate: 2020-01-15 11:31:07[0m
+[92mHash: e2b91f0f70cd6cfe88256c28513ad6c2fd4035b2[0m
+[92mFilepath: dummy3[0m
+[92mBranch: origin/master[0m
+[92mCommit: more dummy keys
+[0m
+@@ -1,2 +0,0 @@
+-AWS_ACCESS_KEY_ID = 'AKIAWS5NX6G6HTHG3R6S'
+-AWS_SECRET_ACCESS_KEY = '[93meqwiNUwsvXZO0n7xIBIf4M5Lm/i2XY6m+iOOlF7j[0m'
+
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+[92mReason: AWS API Key[0m
+[92mDate: 2020-01-15 11:31:07[0m
+[92mHash: e2b91f0f70cd6cfe88256c28513ad6c2fd4035b2[0m
+[92mFilepath: dummy3[0m
+[92mBranch: origin/master[0m
+[92mCommit: more dummy keys
+[0m
+[93mAKIAWS5NX6G6HTHG3R6S[0m
+~~~~~~~~~~~~~~~~~~~~~
